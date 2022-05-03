@@ -11,4 +11,4 @@ Start server using the command `node server.js` in the terminal.
 NOTE 
 Error message when starting the server as follows: `Dialect needs to be explicitly supplied as of v4.0.0`
 
-Unsure of where the issue is occuring from at present.
+Unsure of where the issue is occuring from at present. Cannot screencast a walkthrough seeing as the server does not work.
